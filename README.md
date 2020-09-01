@@ -1,6 +1,6 @@
 # Social-Media-Popularity-and-Marketing-Strategies-by-Iggy
 
-This material is a improvement of my Data Analytics Intern. During that Intrenship, My main task is to improve their marketing strategies on social media platforms to improve the number of followers and brand awareness.  
+This material is an improvement of my Data Analytics Intern. During that Intrenship, My main task is to improve their marketing strategies on social media platforms to improve the number of followers and brand awareness.  
 
 I mainly used natural language processing on SAS enterprise miner. I studied 10,000 tweets from companies with a large number of posts, and the tweets with more than 50 reposts were labeled as popular, otherwise it was not popular. I processed the text by typical NLP processing methods and trained supervised machine learning models. 
 
